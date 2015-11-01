@@ -1,0 +1,8 @@
+Homework week 3, part a
+1 ab
+2 b
+3 b
+4. True or false: High classification accuracy always indicates a good classifier.  I answered true. It is false, because you might have high, but error might be unacceptable? http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+5 a 
+6 b
+7 a
